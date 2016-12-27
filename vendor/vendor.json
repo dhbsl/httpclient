@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "qtu52mj8TO8GtqnKD1UDIgn28rU=",
+			"path": "golang.org/x/net/http2",
+			"revision": "04b9de9b512f58addf28c9853d50ebef61c3953e",
+			"revisionTime": "2016-01-26T21:02:32Z"
+		},
+		{
+			"checksumSHA1": "N10BXQOqndtLNkb6PzgqWmsmtOs=",
+			"path": "golang.org/x/net/http2/hpack",
+			"revision": "04b9de9b512f58addf28c9853d50ebef61c3953e",
+			"revisionTime": "2016-01-26T21:02:32Z"
+		}
+	],
+	"rootPath": "httpclient"
+}
